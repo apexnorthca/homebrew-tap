@@ -1,9 +1,9 @@
 class Costdoctor < Formula
   desc "See where your Claude Code and Codex tokens go, and when you will hit your plan limit"
   homepage "https://github.com/apexnorthca/costdoctor-cli"
-  url "https://github.com/apexnorthca/costdoctor-cli/releases/download/v1.0.1/costdoctor-1.0.1-macos.zip"
-  sha256 "d1e60d4d7ebd0f3e8978d37838bb273cf73ae8c6047e6d56d5dee2b29d869eb5"
-  version "1.0.1"
+  url "https://github.com/apexnorthca/costdoctor-cli/releases/download/v1.0.2/costdoctor-1.0.2-macos.zip"
+  sha256 "016ad81c388e959ff84be2ed543c5c0c560eb9f938d1e2b18fcecf99093a2fdf"
+  version "1.0.2"
   license "MIT"
 
   depends_on :macos
